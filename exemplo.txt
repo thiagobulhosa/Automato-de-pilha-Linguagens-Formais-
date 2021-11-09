@@ -1,0 +1,14 @@
+exemplo de entrada para as regras:
+1 a I 1 AI
+1 a A 1 AA
+1 b A 2 e
+2 b A 2 e
+2 e I 3 I
+
+Essa regra aceita qualquer cadeia que siga a linguaguem: a^nb^n
+
+Sendo assim,esses são exemplos de cadeias aceitas:
+ab
+aabb
+aaabbb
+aaaabbbb
